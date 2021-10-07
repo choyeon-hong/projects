@@ -1,1 +1,1 @@
-# a collection of my projects
+# my projects
